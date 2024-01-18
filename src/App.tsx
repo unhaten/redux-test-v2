@@ -1,16 +1,16 @@
 import './App.css'
-import {useAppDispatch, useAppSelector} from "./hooks/redux.ts";
-import {useEffect} from "react";
-import {fetchUsers} from "./store/actions/user.action.ts";
+// import {useAppDispatch, useAppSelector} from "./hooks/redux.ts";
+// import {useEffect} from "react";
+// import {fetchUsers} from "./store/actions/user.action.ts";
 import PostContainer from "./components/PostContainer.tsx";
 
 function App() {
-    const dispatch = useAppDispatch()
+    // const dispatch = useAppDispatch()
     // const {error, isLoading, users} = useAppSelector(state => state.userReducer)
 
-    useEffect(() => {
-        dispatch(fetchUsers())
-    }, [])
+    // useEffect(() => {
+    //     dispatch(fetchUsers())
+    // }, [])
 
     // if (isLoading) {
     //     return <h1>Loading ...</h1>

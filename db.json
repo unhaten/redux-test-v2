@@ -1,64 +1,44 @@
 {
   "posts": [
     {
-      "id": 1,
+      "id": "1",
       "title": "a title",
       "body": "typicode"
     },
     {
-      "id": 2,
+      "id": "2",
+      "title": "ajax",
+      "body": "typicode"
+    },
+    {
+      "id": "5",
       "title": "another title",
       "body": "typicode"
     },
     {
-      "id": 3,
+      "id": "9",
       "title": "another title",
       "body": "typicode"
     },
     {
-      "id": 4,
-      "title": "another title",
-      "body": "typicode"
+      "id": "0b66",
+      "title": "xd",
+      "body": "xd"
     },
     {
-      "id": 5,
-      "title": "another title",
-      "body": "typicode"
+      "id": "d128",
+      "title": "zcxxc",
+      "body": "zcxxc"
     },
     {
-      "id": 6,
-      "title": "another title",
-      "body": "typicode"
+      "id": "9368",
+      "title": "cx",
+      "body": "cx"
     },
     {
-      "id": 7,
-      "title": "another title",
-      "body": "typicode"
-    },
-    {
-      "id": 8,
-      "title": "another title",
-      "body": "typicode"
-    },
-    {
-      "id": 9,
-      "title": "another title",
-      "body": "typicode"
-    },
-    {
-      "id": 10,
-      "title": "another title",
-      "body": "typicode"
-    },
-    {
-      "id": 11,
-      "title": "asd",
-      "body": "asd"
-    },
-    {
-      "id": 12,
-      "title": "cxcvvxc",
-      "body": "cxcvvxc"
+      "id": "39aa",
+      "title": "zcccx",
+      "body": "zcccx"
     }
   ],
   "comments": [
